@@ -16,3 +16,7 @@ URL_MAR_2018_SALE = os.getenv('URL_MAR_2018_SALE')
 
 NOV_2017_SALE_DATA_CSV = 'nov_2017_data.csv'
 MAR_2018_SALE_DATA_CSV = 'mar_2018_data.csv'
+
+GBP_TO_USD_EXCHANGE_RATE = 1.32
+
+REPORT_CSV = 'report.csv'
